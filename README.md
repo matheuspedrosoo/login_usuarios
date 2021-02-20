@@ -10,9 +10,10 @@ http://localhost:3001/login
 
 http://localhost:3001/register
 
-login: 
+login para teste:
 
-e-mail: teste@teste.com"
+e-mail: teste@teste.com
+
 senha: 12345678
 
 Pode-se também criar um novo usuário na página register.
