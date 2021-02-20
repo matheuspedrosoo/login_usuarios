@@ -1,0 +1,203 @@
+.container {
+  position: absolute;
+  width: 270px;
+  height: 518px;
+  left: 877px;
+  top: 136px;
+}
+
+.h1 {
+  width: 231px;
+  height: 96px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 48px;
+  text-align: inherit;
+  color: #383e71;
+  margin-bottom: 50px;
+}
+
+.p {
+  position: absolute;
+  top: 120px;
+  color: #989fdb;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.label-nome {
+  margin-left: 11px;
+  margin-top: 90px;
+  width: 72px;
+  height: 14px;
+  left: 888px;
+  top: 221px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 48px;
+  display: flex;
+  align-items: center;
+  color: #383e71;
+  margin-bottom: 8px;
+}
+
+.input-nome {
+  width: 256px;
+  height: 48px;
+  left: 878px;
+  top: 353px;
+  box-sizing: border-box;
+  border-radius: 8px;
+  border-color: #989fdb;
+}
+
+.label-sobrenome {
+  margin-left: 11px;
+  margin-top: 8px;
+  width: 72px;
+  height: 14px;
+  left: 888px;
+  top: 221px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 48px;
+  display: flex;
+  align-items: center;
+  color: #383e71;
+  margin-bottom: 8px;
+}
+
+.input-sobrenome {
+  width: 256px;
+  height: 48px;
+  left: 878px;
+  top: 353px;
+  box-sizing: border-box;
+  border-radius: 8px;
+  border-color: #989fdb;
+}
+
+.label-email {
+  margin-top: 8px;
+  margin-left: 11px;
+  width: 72px;
+  height: 14px;
+  left: 888px;
+  top: 331px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 48px;
+  display: flex;
+  align-items: center;
+  color: #383e71;
+  margin-bottom: 8px;
+}
+
+.input-email {
+  width: 256px;
+  height: 48px;
+  left: 878px;
+  top: 353px;
+  box-sizing: border-box;
+  border-radius: 8px;
+  border-color: #989fdb;
+}
+
+.input-senha {
+  width: 256px;
+  height: 48px;
+  left: 878px;
+  top: 353px;
+  box-sizing: border-box;
+  border-radius: 8px;
+  border-color: #989fdb;
+}
+
+.label-senha {
+  margin-left: 11px;
+  margin-top: 10px;
+  width: 72px;
+  height: 14px;
+  left: 888px;
+  top: 331px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 48px;
+  display: flex;
+  align-items: center;
+  color: #383e71;
+  margin-bottom: 8px;
+}
+
+.Login-Field:focus {
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  outline: none;
+}
+
+.Login-Error-EMAIL {
+  width: 223px;
+  height: 14px;
+  left: 894px;
+  top: 409px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 48px;
+  /* or 480% */
+  color: #ff377f;
+}
+.Login-Error-SENHA {
+  width: 223px;
+  height: 14px;
+  left: 894px;
+  top: 409px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 48px;
+  color: #ff377f;
+}
+.Login-Btn {
+  margin-top: 24px;
+  width: 256px;
+  height: 48px;
+  left: 877px;
+  top: 534px;
+  background: linear-gradient(267.79deg, #383e71 0%, #9d25b0 99.18%);
+  box-shadow: 0px 10px 25px #cf99db;
+  border-radius: 8px;
+}
+.Login-Btn:hover {
+  cursor: pointer;
+}
+
+.recuperar-login {
+  width: 212px;
+  height: 40px;
+  left: 899px;
+  top: 614px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  margin-left: 18px;
+  text-align: center;
+  color: #989fdb;
+}
