@@ -1,4 +1,4 @@
-# Frontend do projeto login_usuarios
+# Front-end do projeto login_usuarios
 
 ## yarn install para instalar as dependências
 
